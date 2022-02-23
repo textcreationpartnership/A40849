@@ -1,0 +1,182 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The golden fleece, or, Old England restored to its old honest vocation by J.F., a well-wisher to industry.</title>
+            <author>J. F., 17th cent.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40849</idno>
+            <idno type="STC">Wing F37</idno>
+            <idno type="STC">ESTC R29798</idno>
+            <idno type="EEBO-CITATION">11208216</idno>
+            <idno type="OCLC">ocm 11208216</idno>
+            <idno type="VID">46774</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40849)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 46774)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1441:52)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The golden fleece, or, Old England restored to its old honest vocation by J.F., a well-wisher to industry.</title>
+                  <author>J. F., 17th cent.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Langley Curtis ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1679.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Commerce.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:46774:1"/>
+            <!-- PDF PAGE 46 -->
+            <pb facs="tcp:46774:1"/>
+            <!-- PDF PAGE 46 -->
+            <p>THE Golden Fleece: OR, Old <hi>ENGLAND</hi> Reſtored To its old Honeſt VOCATION.</p>
+            <p>By <hi>J. F.</hi> a Well-wiſher to Induſtry.</p>
+            <p>
+               <q>Nil tam difficile est quod non Solertia vincat.</q>
+            </p>
+            <p>Licenſed <hi>April</hi> 2. 1679.</p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Langley Curtis</hi> on <hi>Ludgate</hi>-hill. 1679.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:46774:2"/>
+            <!-- PDF PAGE 47 -->
+            <pb n="3" facs="tcp:46774:2"/>
+            <!-- PDF PAGE 47 -->
+            <head>THE Golden Fleece: OR, <hi>OLD ENGLAND</hi> Reſtor'd to its old honeſt VOCATION.</head>
+            <p>IF <hi>Debauchery</hi> and <hi>Sloath</hi> be the Common High-way to <hi>Beggery,</hi> then it follows, that Virtue and <hi>Induſtry</hi> is the true Road to Wealth and Plenty: For as by the bleſſing of God the <hi>diligent hand makes rich,</hi> ſo divine Juſtice is vindicated, in bringing the <hi>Sluggard</hi> to extream Want. As it is with particular perſons and Fami<g ref="char:EOLhyphen"/>lies, Poverty brings them to Contempt, think it not ſtrange if a Kingdom no longer retains its Re<g ref="char:EOLhyphen"/>putation, when once it's fallen into decay. And that it may not be the Caſe of <hi>England,</hi> it becomes all good Subjects to finde out Expedients to pre<g ref="char:EOLhyphen"/>vent further Ruine, and to recover (if poſſible) our former Greatneſs and Honour.</p>
+            <p>
+               <pb n="4" facs="tcp:46774:3"/>
+               <!-- PDF PAGE 48 -->
+In order to this I ſhortly Propoſe,</p>
+            <p>
+               <label>I.</label>
+THat an Act of Parliament might paſs for E<g ref="char:EOLhyphen"/>recting Work-houſes in every County, more or leſs, anſwering the Capaciouſneſs and Commo<g ref="char:EOLhyphen"/>diouſneſs of each County for Manufacture.</p>
+            <p>
+               <label>II.</label>
+That theſe Work-houſes ſhould be Erected by an equal Pound-rate ſet on the Lands, Tythes, and Hereditaments in each County.</p>
+            <p>
+               <label>III.</label>
+Where many Pariſhes joyn in ſetting up a Work-houſe, Twelve pence <hi>per</hi> pound may perfect Buil<g ref="char:EOLhyphen"/>dings, and provide Looms, Working-tools, <hi>&amp;c.</hi> Where few Pariſhes aſſociate, Two ſhillings <hi>per</hi> pound will be expended, and perhaps to more ad<g ref="char:EOLhyphen"/>vantage than Twelve pence, where more Pariſhes unite: For if the Work be well carried on, in few years the growing Charge of the Poor of each Pa<g ref="char:EOLhyphen"/>riſh will be ſo leſſened, that none will repent them of their firſt Charge. Thus the firſt year will be ſpent in preparing Houſes, <hi>&amp;c.</hi> the ſecond may re<g ref="char:EOLhyphen"/>quire a Contribution for the ſtock of Wool, Flax,
+<pb n="5" facs="tcp:46774:3"/>
+               <!-- PDF PAGE 48 -->Hemp, <hi>&amp;c.</hi> which, with the Salaries of Officers, and other incident Charges of the Society, may a<g ref="char:EOLhyphen"/>mount to Six pence <hi>per</hi> pound where many, and Twelve pence where few Pariſhes unite.</p>
+            <p>
+               <label>IV.</label>
+As to the Regulation of theſe Alms Work-houſes, there muſt be ſeveral Wards or Appartments, one to ſet on work ſturdy Rogues and Vagrants, ano<g ref="char:EOLhyphen"/>ther to employ poor male Children of all ages, from ſeven to one and twenty years; another for poor Females from five to eighteen years old: Over the firſt a Maſter of Correction, the next ſome expert Clothier; the third, ſome grave Matron well ſkill'd in Spinning, Knitting, Seampſtry, <hi>&amp;c.</hi> To prevent Frauds and Neglects in theſe Governours, it may do well for every Pariſh to chuſe one able perſon four times in every year, to meet and viſit the ſaid Houſe, and reform all Abuſes, and exactly take the Accounts of the ſaid Governours.</p>
+            <p>Hitherto I have onely preſented you with the dark ſide, and worſt part, (I mean the Charge) which moſt men will ſay, at this time when we are ſo impoveriſhed, is very unpleaſant. I ſhall in the next place repreſent the great Benefit, Profit, and Wealth, that may ariſe to this Kingdom from the ſpeedy building and careful continuance of theſe <hi>Operatories.</hi>
+            </p>
+            <p>
+               <pb n="6" facs="tcp:46774:4"/>
+               <!-- PDF PAGE 49 -->
+               <label>I.</label>
+It will reclaim the multitude of ſturdy Vagrants and idle Beggars, which ſwarm in all parts of this Land, and ſerve for nothing but to provoke God by a lewd Life, ſtarve our innocent Poor by eating the bread of their Neighbours Charity, and ter<g ref="char:EOLhyphen"/>rifie the harmleſs Commonalty, who (as the poor <hi>Indians</hi> ſerve the Devil) relieve them out of fear: By this means this numerous band of Ruffians, ready upon any Tumult to diſturb our Peace, may be reduced to a ready Service of our King and Country.</p>
+            <p>
+               <label>II.</label>
+It will take off the Charge of all indigent Peo<g ref="char:EOLhyphen"/>ple in all parts of the Land ſo timely, that they ſhall be enured with Work, before they be cor<g ref="char:EOLhyphen"/>rupted with Idleneſs and Theft.</p>
+            <p>
+               <label>III.</label>
+It will be a means to work out all our Wool, that now either rots, or is ſtollen into <hi>France,</hi> or bought up by our Clothiers at ſo mean a rate, that no Farmer can pay his Rent: And what hath been only pretended to by the Clothier, <hi>viz.</hi> the ſole Manufacture of <hi>Engliſh, Iriſh,</hi> and <hi>Scottiſh</hi>
+               <pb n="7" facs="tcp:46774:4"/>
+               <!-- PDF PAGE 49 -->Wool, may in few years by the foreſaid means be happily accompliſhed; and could we but once work out all our Wool, we ſhould force a Market in all parts of the World for them; and not till then ſhall we be able to under-ſell <hi>Fleming, French,</hi> &amp;c. having our Work done cheaper than they; our Manufacture being carried on not only by Pri<g ref="char:EOLhyphen"/>vate Hands, but by a publick Purſe. The advan<g ref="char:EOLhyphen"/>tages this Nation hath above all other in the world, for the better and cheaper working up of Drapery, is ſo well ſet forth by my worthy Friend Mr. <hi>Richard Haynes,</hi> that I ſhall forbear any fur<g ref="char:EOLhyphen"/>ther mention of them.</p>
+            <p>
+               <label>IV.</label>
+It will be a means to ſet up the Manufactory of Linnen, many parts of this Land being as capable to produce Flax and Hemp, as <hi>France</hi> is, which pours in her Manufactures to us, but will receive none of our ours, but with ſuch a load of Cuſtomes, that renders it loſs to our Merchants to deal with them. And had there been no other Miſchief at<g ref="char:EOLhyphen"/>tending us, than this unequal dealing of theirs, our late Act for prohibiting of ſeveral Goods of their Growth and Manufacture, may be well juſti<g ref="char:EOLhyphen"/>fied to the whole World.</p>
+            <p>Many are the Benefits that will flow from the aforeſaid Propoſals; as the Increaſe of Navigation,
+<pb n="8" facs="tcp:46774:5"/>
+               <!-- PDF PAGE 50 -->Addition to his Majeſties Cuſtomes, Advance of Merchandiſe and Merchants, in the true and ge<g ref="char:EOLhyphen"/>nuine way of Trade, by Exporting Goods of our Native Growth, and Importing Commodities which may fill our Purſes, or relieve our Neceſſi<g ref="char:EOLhyphen"/>ties, <hi>viz.</hi> The <hi>Guinny</hi> Wedge, the Silver Bar, our <hi>Spaniſh</hi> Bullen, the Naval preparations of the <hi>Sound,</hi> &amp;c. in exchange for our Cloath, Kerſies, Flannels, Serges, <hi>&amp;c.</hi> And I never expect to ſee <hi>England</hi> flouriſh, till it return to this old way; and when once we gain the ſole Manufacture of our Wool, (I mean all of the three Kingdoms) then may we have all the aboveſaid Enrichments, for this our Golden Fleece.</p>
+            <p>Not that I would have it thought I abound ſo much in my own ſenſe, and dote upon my <hi>ex tempore</hi> Figment; but ſhall with all Humility and Joy receive the help of more experienced Perſons, to alter and adde what ſhall beſt agree to good Reaſon, in this deſigne of Employing, and con<g ref="char:EOLhyphen"/>ſequently Enriching the Three Kingdoms: For whoſe Weal, as no man is leſs able to Act, ſo no perſon ſhall be more willing to Pray, than</p>
+            <closer>
+               <signed>J. F.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:46774:5"/>
+            <!-- PDF PAGE 50 -->
+         </div>
+      </body>
+   </text>
+</TEI>
